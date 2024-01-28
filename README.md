@@ -3,4 +3,6 @@ This is an interactive game, built with rust. Guppies is a game where the user c
 
 # Compiling The Program(macOS)
 $ cargo build
+
+
 cargo run --bin guppies
